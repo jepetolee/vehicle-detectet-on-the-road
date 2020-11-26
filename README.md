@@ -1,1 +1,1 @@
-# vehicle-detectet-on-the-road
+# vehicle-detection-on-the-road
